@@ -1,4 +1,4 @@
-# CourseMaterial-CloudComputing2019AWS-Labs-
+# CourseMaterial-CloudComputing2019AWS-Labs
 The lab material provided in this repository is from the Cloud Platform Development module delivered at Glasgow Caledonian University, UK during the academic year 2019-20 for undergraduate programme.
 
 To cite this work:
